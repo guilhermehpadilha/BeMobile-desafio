@@ -13,9 +13,8 @@ ex. Substitua:  export const api = "localhost:3000/funcionarios";
 ------------------------------------------------------------------------------
 */
 
-export const api = "http://192.168.237.65:3000/funcionarios";
+export const api = "http://localhost:3000/funcionarios";
 
-// export const api = "localhost:3000/funcionarios";
 
 /* 
 
