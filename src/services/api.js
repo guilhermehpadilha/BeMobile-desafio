@@ -3,7 +3,7 @@
 Para obter os dados corretamente da Api caso esteja utilizando um virtual device,
 as requisições precisam ser feitas em um endereço diferente de localhost,
 portanto, insira o seu endereço que está hospedada a api, no caso, de utilizar
-ambas em sua máquina, substitua "localhos" pelo seu endereço de IP LOCAL.
+ambas em sua máquina, substitua "localhost" pelo seu endereço de IP LOCAL.
 
 No caso de seu endereço de ip ser: 10.168.132.22
 
