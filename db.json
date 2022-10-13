@@ -1,0 +1,84 @@
+{
+	"funcionarios": [
+		{
+			"id": 1,
+			"avatar_url": "https://i.pravatar.cc/150?img=31",
+			"name": "Giovana L. Arruda",
+			"cargo": "Front-end",
+			"date": "0000-00-00",
+			"telefone": "5544555555555"
+		},
+		{
+			"id": 2,
+			"avatar_url": "https://i.pravatar.cc/150?img=26",
+			"name": "Vanessa Machado",
+			"cargo": "Back-end",
+			"date": "0000-00-00",
+			"telefone": "5555555555555"
+		},
+		{
+			"id": 3,
+			"avatar_url": "https://i.pravatar.cc/150?img=5",
+			"name": "Juliana Borba",
+			"cargo": "Back-end",
+			"date": "0000-00-00",
+			"telefone": "5555999999999"
+		},
+		{
+			"id": 4,
+			"avatar_url": "https://i.pravatar.cc/150?img=9",
+			"name": "Josiane Dias",
+			"cargo": "Mobile",
+			"date": "0000-00-00",
+			"telefone": "5555555555555"
+		},
+		{
+			"id": 5,
+			"avatar_url": "https://i.pravatar.cc/150?img=12",
+			"name": "Reginaldo Felipe",
+			"cargo": "Mobile",
+			"date": "0000-00-00",
+			"telefone": "5555555555555"
+		},
+		{
+			"id": 6,
+			"avatar_url": "https://i.pravatar.cc/150?img=33",
+			"name": "Grabriel D.",
+			"cargo": "Front-end",
+			"date": "0000-00-00",
+			"telefone": "5555555555555"
+		},
+		{
+			"id": 7,
+			"avatar_url": "https://i.pravatar.cc/150?img=53",
+			"name": "Silvio de Carvalho",
+			"cargo": "Front-end",
+			"date": "0000-00-00",
+			"telefone": "5555555555555"
+		},
+		{
+			"id": 8,
+			"avatar_url": "https://i.pravatar.cc/150?img=13",
+			"name": "Omar A. Amaral",
+			"cargo": "Front-end",
+			"date": "0000-00-00",
+			"telefone": "5555555555555"
+		},
+		{
+			"id": 9,
+			"avatar_url": "https://i.pravatar.cc/150?img=54",
+			"name": "João Pedro Farias",
+			"cargo": "Front-end",
+			"date": "0000-00-00",
+			"telefone": "5555555555555"
+		},
+		{
+			"id": 10,
+			"avatar_url": "https://i.pravatar.cc/150?img=26",
+			"name": "Caroline Rocha da Silva",
+			"cargo": "Front-end",
+			"date": "0000-00-00",
+			"telefone": "5555555555555"
+		}
+	]
+}
